@@ -5,7 +5,7 @@
 2. **Navigate to the Downloads page**: 📥 Click on the "Downloads" link at the top of the page.
 
 3. **Select the appropriate version for your operating system**:
-    - **For Windows**: 🪟 Click on the "Download Python x.x.x" button (where x.x.x is the latest version number).
+    - **For Windows**:  Click on the "Download Python 3.12.3" button (where 3.12.3 is the latest version number).
     - **For macOS**: 🍏 Scroll down to the "Download the latest version for macOS" section and click on the appropriate link.
     - **For Linux/UNIX**: 🐧 Follow the instructions for your specific distribution.
 
